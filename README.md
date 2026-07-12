@@ -1,4 +1,6 @@
 <img width="1900" height="836" alt="image" src="https://github.com/user-attachments/assets/d86fee5e-170c-461e-9025-0681ba41d695" />
+<img width="1900" height="838" alt="image" src="https://github.com/user-attachments/assets/b164acd2-48a3-49fd-ab1f-9e68b71912ac" />
+
 
 
 # Studioflow  SaaS Landing Page
