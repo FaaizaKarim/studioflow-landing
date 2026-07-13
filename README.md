@@ -31,6 +31,5 @@ npm run dev
 
 Open http://localhost:3000
 
-## Deploy
-
-Push to GitHub and import into Vercel. No configuration needed.
+## Deploy ##
+https://studioflow-landing-five.vercel.app/
